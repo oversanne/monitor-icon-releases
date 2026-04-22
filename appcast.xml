@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://oversanne.github.io/monitor-icon-releases/MonitorIcon_v1.0_b1.zip" length="3246703" type="application/octet-stream" sparkle:edSignature="eUPjlSWVv9TM17fqwXL2hsXpkl9BMfQyj4djCqGqwbFkZqsBRfEZ1GOw/mFkpAIGJ/GFG0Mzgxh9D3xYgSSLBg=="/>
+            <enclosure url="https://oversanne.github.io/monitor-icon-releases/MonitorIcon_v1.0_b1.zip" length="3246698" type="application/octet-stream" sparkle:edSignature="4DJT8HhsJZMa8IKic94LmOAW5OrvSHhcsVPHQ/X6/AvlD/Bqc9p5cNHNxgoTmEH1/FLNvtk7+DX1OvpNuFphDQ=="/>
         </item>
     </channel>
 </rss>
