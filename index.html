@@ -97,9 +97,10 @@
                 if(items.length > 0) {
                     const latestItem = items[0];
                     const enclosure = latestItem.querySelector('enclosure');
-                    if(enclosure) {
+                    const titleElement = latestItem.querySelector('title');
+                    if(enclosure && titleElement) {
                         const url = enclosure.getAttribute('url');
-                        const version = enclosure.getAttribute('sparkle:shortVersionString');
+                        const version = titleElement.textContent;
                         const btn = document.getElementById('download-btn');
                         btn.href = url;
                         btn.innerHTML = btn.innerHTML.replace('Latest Release', 'Download v' + version);
