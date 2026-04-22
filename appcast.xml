@@ -4,6 +4,14 @@
         <title>MonitorIcon</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 22 Apr 2026 16:46:06 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://monitor.delcedo.com/MonitorIcon_v1.0_b7.zip" length="3246688" type="application/octet-stream" sparkle:edSignature="FZFf1f15YUORKRmpBxUhvogGObQMuG+T6MqNdCn71Kiufbuon84f+9MLIKS29QlJZd123UxZ4dHUxEcwRRQpAg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 22 Apr 2026 16:45:29 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://oversanne.github.io/monitor-icon-releases/MonitorIcon_v1.0_b5.zip" length="3246688" type="application/octet-stream" sparkle:edSignature="IZNiGKnBBkax3dkzW0vSy0aDNKXTFYiV5m+CesjfeKfv5kukKR9huoH9Sr70s+/kOWY4xIOZTz0gKqo780bcAg=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 22 Apr 2026 16:42:17 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://oversanne.github.io/monitor-icon-releases/MonitorIcon_v1.0_b4.zip" length="3246691" type="application/octet-stream" sparkle:edSignature="iML2rgQzmV81bYAeM4z1CcubPn5WrCvOziw5VUX7AWmKKy1uYoSvMHvOgK+klEqd4Ict+6JuJBsjCzFgeOVpDQ=="/>
         </item>
     </channel>
 </rss>
