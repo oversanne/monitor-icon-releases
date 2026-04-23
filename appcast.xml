@@ -4,6 +4,14 @@
         <title>MonitorIcon</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 23 Apr 2026 20:41:57 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://monitor.delcedo.com/MonitorIcon_v1.0_b17.zip" length="3274276" type="application/octet-stream" sparkle:edSignature="/bOfsdkV4H+s3ssn2IEfrC/i/BQPY0hjk70p/LBRh+e/cw0RTguWh9qJCya3fuXnwjcJhUoRgtCZ4brAoN7BAQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 23 Apr 2026 16:17:53 +0200</pubDate>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://monitor.delcedo.com/MonitorIcon_v1.0_b15.zip" length="3274292" type="application/octet-stream" sparkle:edSignature="uDEbg0wgA53Pki7cBH0zfLnN3Wg+VKg5cjU9TLiJGeQO09qtH66ve1M3j58iLYOn4ZU0qIyGQTOmL2RXxFIdDw=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 23 Apr 2026 15:25:57 +0200</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://monitor.delcedo.com/MonitorIcon_v1.0_b14.zip" length="3251951" type="application/octet-stream" sparkle:edSignature="RlGIY5zRfwAQa68E+IuC88rl/Q8WvaXfIS6euKfaLj77PE2+z94yqso6Y0y9xBmfQ6X25nO5DeTDz9zJjSauDg=="/>
         </item>
     </channel>
 </rss>
